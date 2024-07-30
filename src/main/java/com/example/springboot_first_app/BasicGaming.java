@@ -12,7 +12,7 @@ public class BasicGaming {
         var pacManGame = new PacMan();
 //        var game = new SuperContra();
         var gameRunner = new GameRunner(game);
-        System.out.println("Created feature branch, to learn creating the pull request");
+        System.out.println("To create new pull request");
         gameRunner.run();
     }
 }
