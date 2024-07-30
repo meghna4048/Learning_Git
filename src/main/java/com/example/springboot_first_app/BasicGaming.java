@@ -12,9 +12,7 @@ public class BasicGaming {
         var pacManGame = new PacMan();
 //        var game = new SuperContra();
         var gameRunner = new GameRunner(game);
-        System.out.print("Making random commits");
-        System.out.print(" to better learn");
-        System.out.println(" squashing the commits");
+        System.out.println("Created feature branch, to learn creating the pull request");
         gameRunner.run();
     }
 }
